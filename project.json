@@ -1,0 +1,43 @@
+{
+  "title": "PRE3",
+  "date": "11/01/21",
+  "description": {
+    "es": ""
+  },
+  "license": {
+    "es": "Esta obra está bajo una licencia de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "es"
+  ],
+  "mainFile": "pre3.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 2,
+  "mediaFiles": 17,
+  "totalSize": 2578215,
+  "files": [
+    "1audifono.jpg",
+    "1camara.jpg",
+    "1computadora.jpg",
+    "1laptop.jpg",
+    "1mouse.jpg",
+    "1teclado.jpg",
+    "favicon.ico",
+    "icon-192.png",
+    "icon-72.png",
+    "imagenes__01.jpg",
+    "imagenes__02.jpg",
+    "imagenes__03.jpg",
+    "imagenes__04.jpg",
+    "imagenes__05.jpg",
+    "imagenes__06.jpg",
+    "imsmanifest.xml",
+    "index.html",
+    "pre3.jclic",
+    "pre3.jclic.js",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json"
+  ]
+}
